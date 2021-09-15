@@ -1,0 +1,13 @@
+{
+  "collectionName": "components_code_codes",
+  "info": {
+    "name": "Code",
+    "icon": "book-open"
+  },
+  "options": {},
+  "attributes": {
+    "code": {
+      "type": "text"
+    }
+  }
+}
