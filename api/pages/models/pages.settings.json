@@ -15,7 +15,10 @@
     "Pages": {
       "type": "dynamiczone",
       "components": [
-        "code.code"
+        "code.code",
+        "slider.slider",
+        "cta.cta",
+        "link.link"
       ]
     }
   }

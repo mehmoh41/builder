@@ -1,0 +1,19 @@
+{
+  "collectionName": "components_cta_ctas",
+  "info": {
+    "name": "CTA",
+    "icon": "battery-half",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "text"
+    },
+    "link": {
+      "type": "component",
+      "repeatable": true,
+      "component": "link.link"
+    }
+  }
+}

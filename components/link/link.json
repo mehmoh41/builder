@@ -1,0 +1,25 @@
+{
+  "collectionName": "components_link_links",
+  "info": {
+    "name": "Link",
+    "icon": "external-link-alt"
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    },
+    "href": {
+      "type": "string"
+    },
+    "target": {
+      "type": "enumeration",
+      "enum": [
+        "_blank",
+        "_self",
+        "_parent",
+        "_top"
+      ]
+    }
+  }
+}
